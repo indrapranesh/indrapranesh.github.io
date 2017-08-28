@@ -6,4 +6,46 @@
 
 <div id="map"></div> 
 
+ <style>
+       #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
 
+
+<script>
+      var map;
+      var latlng = {lat: 11.2681, lng: 77.5906};
+      function initMap() {
+        var locations= [
+        
+        ['erode' ,11.3410, 77.7172,1],
+        ['per',11.2681, 77.5906,2],
+        ['che',11.1606789,77.6015692,3],
+        ['nam',11.3583519, 77.3136663,4]
+        
+        ];  
+        
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: latlng,
+          zoom:10
+        });
+        
+        
+        for(var i=0;i<locations.length;i++){  
+         var marker=new google.maps.Marker({
+            position:new google.maps.LatLng(locations[i][1], locations[i][2]),
+            map:map,
+            title:locations[i][0]
+          });
+          
+        }
+      
+      
+      
+        
+        
+      }
+      
+      </script>
