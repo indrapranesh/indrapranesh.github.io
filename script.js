@@ -26,7 +26,131 @@ var cities = [
                   phone: '9998887774',
                   lat : 11.3583519,
                   long : 77.3136663
-              }
+              },
+	{
+                  city : 'bhavanisagar',
+                  desc : '108',
+                  phone: '9998887774',
+                  lat : 11.478237,
+                  long : 77.1236157
+              },
+        
+        
+              {
+                  city : 'erode fire station',
+                  desc : '108',
+                  phone: '9998887774',
+                  lat : 11.332618,
+                  long : 77.7249898
+              },
+          
+               {
+                  city : 'pulliyampati',
+                  desc : '108',
+                  phone: '9998887774',
+                  lat : 11.3543302,
+                  long : 77.149472
+              },
+        
+             {
+                  city : 'karungalpalayam',
+                  desc : '108',
+                  phone: '9998887774',
+                  lat : 11.3528028,
+                  long :  77.7268968
+              },
+            
+          
+               {
+                
+                  city : 'thalavadi',
+                  desc : '108',
+                  phone: '9998887774',
+                  lat  : 11.7787624 ,
+                  long : 77.149472 
+                },
+           
+           
+          {
+                
+                  city : 'cift erode gh',
+                  desc : '108',
+                  phone: '9998887775',
+                  lat  : 11.3395825 ,
+                  long : 77.7149836 
+                },
+           
+               {
+                
+                  city : 'kodumudi',
+                  desc : '108',
+                  phone: '9998887776',
+                  lat  : 11.0739022 ,
+                  long : 77.8839768
+                },
+           
+                  {
+                
+                  city : 'gopi',
+                  desc : '108',
+                  phone: '9998887777',
+                  lat  : 11.4544518 ,
+                  long : 77.4134442 
+                },
+           
+            {
+                
+                  city : 'anthiyu',
+                  desc : '108',
+                  phone: '9998887778',
+                  lat  : 11.5791226 ,
+                  long : 77.5721882
+                },
+           
+           {
+                
+                  city : 'kavinthapadi',
+                  desc : '108',
+                  phone: '9998887779',
+                  lat  : 11.4277735 ,
+                  long : 77.546693
+                },
+           
+               {
+                
+                  city : 'bhavanii',
+                  desc : '108',
+                  phone: '9998887780',
+                  lat  : 11.4466914 ,
+                  long : 77.6634047
+                },
+           
+             {
+                
+                  city : 'sathy',
+                  desc : '108',
+                  phone: '9998887781',
+                  lat  : 11.5026891 ,
+                  long : 77.2200664
+                },
+           
+           {
+                
+                  city : 'ammapettai',
+                  desc : '108',
+                  phone: '9998887782',
+                  lat  : 11.62089,
+                  long : 77.7379489
+                },
+           
+            {
+                
+                  city : 'lakkapuram',
+                  desc : '108',
+                  phone: '9998887784',
+                  lat  : 11.3068013,
+                  long : 77.74866112
+                }
           ];
 
 
